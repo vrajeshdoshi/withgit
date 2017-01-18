@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome Bhoolku Vrajesh! Today is a great day.</h1>
+	<h1>Welcome Das na das! Today is a great day.</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter. Lets complete GIT learning today</p>
